@@ -16,3 +16,17 @@ Technologies:
 
 Internship:
 CodSoft Python Programming Internship
+
+
+
+
+ Task 2 – Calculator
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Exit
+
+TECHNOLOGIES :
+ - PYTHON
+
